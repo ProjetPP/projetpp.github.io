@@ -11,6 +11,6 @@ To do thing more easily, [JekyllBootstrap](http://jekyllbootstrap.com/) is used.
 The following are some notes to myself to get Jekyll to work on my PC.
 These are additional informations to the official Jekyll and GitHub help.
 
-1. Have ruby, ruby-dev and nodejs packages installed.
+1. Have `ruby`, `ruby-dev` and `nodejs` packages installed.
 2. When some installation does not work, try with sudo.
-3. Do not forget "source 'https://rubygems.org'" in your Gemfile.
+3. Do not forget `source 'https://rubygems.org'` in your Gemfile.
