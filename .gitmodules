@@ -1,0 +1,6 @@
+[submodule "_theme_packages/theme-the-program"]
+	path = _theme_packages/theme-the-program
+	url = https://github.com/jekyllbootstrap/theme-the-program.git
+[submodule "_theme_packages/theme-tom"]
+	path = _theme_packages/theme-tom
+	url = https://github.com/jekyllbootstrap/theme-tom.git
