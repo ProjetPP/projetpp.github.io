@@ -1,5 +1,22 @@
 ---
-title: This is my title
-layout: post
+layout: page
+title: Hello World!
 ---
-Hello world!
+{% include JB/setup %}
+
+## The project
+
+*Projet pensées profondes* are three french words, which mean literaly *deep
+thoughts project* in english.
+
+This project aims to propose a natural question answering framework.
+
+## Who are we?
+
+We are Marc, Quentin, Raphaël, Thomas, Tom, Valentin and Yassine, 
+seven students in first year of the theoretical computer science master, 
+at the [École Normale Supérieure de Lyon](http://www.ens-lyon.fr/DI/).
+
+This project takes place in our school program, from September 2014 to December 2014.
+It will of course be kept on going after this date.
+External contributions are allowed, and welcomed!
