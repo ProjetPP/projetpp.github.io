@@ -4,6 +4,8 @@ The wepbage of the PPP is made using [Jekyll](http://jekyllrb.com/).
 
 You can find more informations about the specific utilization of Jekyll with GitHub [here](https://help.github.com/articles/using-jekyll-with-pages).
 
+To do thing more easily, [JekyllBootstrap](http://jekyllbootstrap.com/) is used.
+
 ## Using Jekyll locally
 
 The following are some notes to myself to get Jekyll to work on my PC.
