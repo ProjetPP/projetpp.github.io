@@ -11,6 +11,8 @@ thoughts project* in english.
 
 This project aims to propose a natural question answering framework.
 
+For a more detailed overview, read our [proposal](proposal.pdf).
+
 ## Who are we?
 
 We are Marc, Quentin, Raphaël, Thomas, Tom, Valentin and Yassine, 
