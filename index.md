@@ -24,4 +24,4 @@ at the [École Normale Supérieure de Lyon](http://www.ens-lyon.fr/DI/).
 
 This project takes place in our school program, from September 2014 to December 2014.
 It will of course be kept on going after this date.
-External contributions are allowed, and welcomed!
+External contributions are allowed and welcome!
