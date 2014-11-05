@@ -12,7 +12,9 @@ Thought Project* in english.
 This project aims to propose a natural question answering framework. You can test
 it [here](http://ppp.pony.ovh/).
 
-For a more detailed overview, read our [proposal](proposal.pdf).
+For a more detailed overview of what we plan, read our [proposal](proposal.pdf).
+
+First achievements, after about one month and a half, are written in the [midterm report](midtermReport.pdf).
 
 This project is hosted on [GitHub](https://github.com/ProjetPP).
 
