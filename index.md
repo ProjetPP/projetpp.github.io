@@ -9,7 +9,7 @@ title: PPP
 *Projet Pensées Profondes* are three french words, which mean literaly *Deep
 Thought Project* in english.
 
-This project aims to propose a natural question answering framework. You can test
+This project aims to propose a natural language question answering framework. You can test
 it [here](http://ppp.pony.ovh/).
 
 For a more detailed overview of what we plan, read our [proposal](proposal.pdf).
