@@ -14,3 +14,27 @@ These are additional informations to the official Jekyll and GitHub help.
 1. Have `ruby`, `ruby-dev` and `nodejs` packages installed.
 2. When some installation does not work, try with sudo.
 3. Do not forget `source 'https://rubygems.org'` in your Gemfile.
+
+Then, run `bundle exec jekyll serve`.
+
+
+## Adding links in the navigation bar
+
+Modifies the class `navbar` in the file `_includes/themes/your_theme`.
+Example:
+```
+    <div class="navbar">
+      <div class="navbar-inner">
+        <div class="container-narrow">
+          <a class="brand" href="{{ HOME_PATH }}">{{ site.title }}</a>
+          <ul class="nav">
+            {% assign pages_list = site.pages %}
+            {% assign group = 'navigation' %}
+            {% include JB/pages_list %}
+            <li><a href="https://github.com/ProjetPP/">GitHub</a></li>
+            <li><a href="http://ppp.pony.ovh/">Ask a question</a></li>
+          </ul>
+        </div>
+      </div>
+    </div>
+```
