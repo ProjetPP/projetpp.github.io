@@ -1,6 +1,6 @@
 ---
 layout: page
-title: PPP
+title: Projet Pensées Profondes
 ---
 {% include JB/setup %}
 
