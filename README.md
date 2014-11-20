@@ -20,7 +20,7 @@ Then, run `bundle exec jekyll serve`.
 
 ## Adding links in the navigation bar
 
-Modifies the class `navbar` in the file `_includes/themes/your_theme`.
+Modifies the class `navbar` in the file `_includes/themes/your_theme/default.html`.
 Example:
 ```
     <div class="navbar">
