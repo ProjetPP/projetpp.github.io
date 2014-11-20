@@ -18,6 +18,8 @@ First achievements, after about one month and a half, are written in the [midter
 
 This project is hosted on [GitHub](https://github.com/ProjetPP).
 
+[![PPP structure](structurePPP.png "The modular structure of the PPP")](structurePPP.png)
+
 ## Who are we?
 
 We are Marc, Quentin, Raphaël, Thomas, Tom, Valentin and Yassine, 
