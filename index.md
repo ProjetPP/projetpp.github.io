@@ -22,13 +22,3 @@ First achievements, after about one month and a half, are written in the [midter
 
 
 [![PPP structure](structurePPP.png "The modular structure of the PPP")](structurePPP.png)
-
-## Who are we?
-
-We are Marc, Quentin, Raphaël, Thomas, Tom, Valentin and Yassine, 
-seven students in first year of the theoretical computer science master, 
-at the [École Normale Supérieure de Lyon](http://www.ens-lyon.fr/DI/).
-
-This project takes place in our school program, from September 2014 to December 2014.
-It will of course be kept on going after this date.
-External contributions are allowed and welcome!
