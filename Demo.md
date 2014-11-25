@@ -1,10 +1,19 @@
 ---
 layout: page
-title: "Help"
+title: "Demo"
 description: "How to use the PPP?"
 group: navigation
 ---
 {% include JB/setup %}
+
+Here are some useful features that you should know.
+
+1. Random generation of a question.
+2. Text input of a question.
+3. Speech input of a question.
+4. Process a question.
+
+[![PPP how to](PPPhelp.png "How to use the query engine?")](PPPhelp.png)
 
 ## Examples of questions
 
