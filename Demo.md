@@ -6,7 +6,7 @@ group: navigation
 ---
 {% include JB/setup %}
 
-Here are some useful features that you should know.
+Some useful features that you should know.
 
 1. Random generation of a question.
 2. Text input of a question.

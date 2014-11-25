@@ -6,7 +6,7 @@ group: navigation
 ---
 {% include JB/setup %}
 
-Here are some basic informations about the main modules of the project.
+Basic informations about the main modules of the project.
 
 For a more detailed overview, please have a look at the [midterm report](midtermReport.pdf).
 
