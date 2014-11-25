@@ -4,11 +4,9 @@ title: Projet Pensées Profondes
 ---
 {% include JB/setup %}
 
-<div class="hero-unit">
-<div style="text-align:center;">
-  <p>A modular and open source question answering framework.</p>
-<a href="http://ppp.pony.ovh/"><button class="btn btn-large btn-primary" type="button">Test the PPP</button></a>
-</div>
+<div class="hero-unit" style="text-align:center;">
+<h1>A modular and open source question answering framework.</h1>
+<a href="http://ppp.pony.ovh/"><button class="btn btn-large btn-primary" type="button" style="font-size: 25px;">Test the PPP</button></a>
 </div>
 
 
