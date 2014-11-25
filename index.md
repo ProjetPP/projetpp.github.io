@@ -7,7 +7,7 @@ description: "Home page of the PPP"
 
 <div class="hero-unit" style="text-align:center;">
 <p>A modular and open source question answering framework.</p>
-<a href="http://ppp.pony.ovh/"><button class="btn btn-large btn-primary" type="button" style="font-size: 25px;">Test the PPP</button></a>
+<a href="http://ppp.pony.ovh/"><button class="btn btn-large btn-primary" type="button" style="font-size: 25px;">Try the PPP</button></a>
 </div>
 
 
