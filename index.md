@@ -4,6 +4,10 @@ title: Projet Pensées Profondes
 ---
 {% include JB/setup %}
 
+<div style="text-align:center;">
+<a href="http://ppp.pony.ovh/"><button class="btn btn-large btn-primary" type="button">Test the PPP</button></a>
+</div>
+
 ## The project
 
 *Projet Pensées Profondes* are three french words, which mean literaly *Deep
