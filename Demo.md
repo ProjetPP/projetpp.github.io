@@ -13,7 +13,7 @@ Some useful features that you should know.
 3. Speech input of a question.
 4. Process a question.
 
-[![PPP how to](PPPhelp.png "How to use the query engine?")](PPPhelp.png)
+[![Annotated screen capture of the PPP](PPPhelp.png "How to use the query engine?")](PPPhelp.png)
 
 ## Examples of questions
 
