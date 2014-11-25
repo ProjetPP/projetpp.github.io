@@ -39,15 +39,20 @@ Produces triples from scratch, without any grammatical library.
 #### Wikidata
 
 Answers general knowledge question, using the data stored in [Wikidata](http://www.wikidata.org/).
-It uses the *Wikidata API* and the *WikidataQuery API*.
+
+Uses the *Wikidata API* and the *WikidataQuery API*.
 
 #### Computer Algebra System
 
-Answers mathematical queries. It uses *Simpy* and *Ply*.
+Answers mathematical queries. 
+
+Uses *Simpy* and *Ply*.
 
 #### Spell Checker
 
-Performs spell-checking on the input sentence. It uses the *Aspell API*.
+Performs spell-checking on the input sentence. 
+
+Uses the *Aspell API*.
 
 #### Wikipedia
 
