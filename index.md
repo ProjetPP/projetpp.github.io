@@ -4,23 +4,23 @@ title: Projet Pensées Profondes
 ---
 {% include JB/setup %}
 
+<div class="hero-unit">
 <div style="text-align:center;">
+  <p>A modular and open source question answering framework.</p>
 <a href="http://ppp.pony.ovh/"><button class="btn btn-large btn-primary" type="button">Test the PPP</button></a>
 </div>
+</div>
+
 
 ## The project
 
 *Projet Pensées Profondes* are three french words, which mean literaly *Deep
 Thought Project* in English.
 
-This project aims to propose a natural language question answering framework. You can test
-it [here](http://ppp.pony.ovh/).
-
 For a more detailed overview of what we plan, read our [proposal](proposal.pdf).
 
 First achievements, after about one month and a half, are written in the [midterm report](midtermReport.pdf).
 
-This project is hosted on [GitHub](https://github.com/ProjetPP).
 
 [![PPP structure](structurePPP.png "The modular structure of the PPP")](structurePPP.png)
 
