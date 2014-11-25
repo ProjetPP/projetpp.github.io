@@ -1,6 +1,7 @@
 ---
 layout: page
-title: Projet Pensées Profondes
+title: "Projet Pensées Profondes"
+description: "Home page of the PPP"
 ---
 {% include JB/setup %}
 
