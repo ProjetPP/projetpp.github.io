@@ -17,6 +17,10 @@ Some useful features that you should know.
 
 ## Examples of questions
 
+* [Who are you?](http://ppp.pony.ovh/?lang=en&q=Who+are+you%3F)
+
+* [Who am I?](http://ppp.pony.ovh/?lang=en&q=Who+am+I%3F)
+
 * [Who is the author of "Le Petit Prince"?](http://ppp.pony.ovh/?lang=en&q=Who+is+the+author+of+%22Le+Petit+Prince%22%3F)
 
 * [What is the capital of India?](http://ppp.pony.ovh/?lang=en&q=What+is+the+capital+of+India%3F)
@@ -24,6 +28,8 @@ Some useful features that you should know.
 * [Who is the prime minister of France?](http://ppp.pony.ovh/?lang=en&q=Who+is+the+prime+minister+of+France%3F)
 
 * [What is the birth date of the president of the United States?](http://ppp.pony.ovh/?lang=en&q=What+is+the+birth+date+of+the+president+of+the+United+States%3F)
+
+* [Who are the Beatles' members?](http://ppp.pony.ovh/?lang=en&q=Who+are+the+Beatles%27+members%3F)
 
 * [sqrt(180)](http://ppp.pony.ovh/?lang=en&q=sqrt(180))
 
