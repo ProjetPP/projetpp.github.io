@@ -26,3 +26,13 @@ Some useful features that you should know.
 * [What is the birth date of the president of the United States?](http://ppp.pony.ovh/?lang=en&q=What+is+the+birth+date+of+the+president+of+the+United+States%3F)
 
 * [sqrt(180)](http://ppp.pony.ovh/?lang=en&q=sqrt(180))
+
+* [N[Pi, 42]](http://ppp.pony.ovh/?lang=en&q=N%5BPi%2C+42%5D)
+
+* [Limit[Sum[1/i, {i,1,n}]-Log[n], n->Infinity]](http://ppp.pony.ovh/?lang=en&q=Limit%5BSum%5B1%2Fi%2C+%7Bi%2C1%2Cn%7D%5D-Log%5Bn%5D%2C+n-%3EInfinity%5D+)
+
+* [Sum[x^n/n!, {n,0,Infinity}]](http://ppp.pony.ovh/?lang=en&q=Sum%5Bx%5En%2Fn!%2C+%7Bn%2C0%2CInfinity%7D%5D+)
+
+* [Sum[1/n^42, {n,1,Infinity}]](http://ppp.pony.ovh/?lang=en&q=Sum%5B1%2Fn%5E42%2C+%7Bn%2C1%2CInfinity%7D%5D+)
+
+* [Integrate[Exp[-x^2], {x, -Infinity, Infinity}]](http://ppp.pony.ovh/?lang=en&q=Integrate%5BExp%5B-x%5E2%5D%2C+%7Bx%2C+-Infinity%2C+Infinity%7D%5D+)
