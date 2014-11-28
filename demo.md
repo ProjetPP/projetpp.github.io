@@ -46,3 +46,8 @@ Some useful features that you should know.
 * [Integrate[Exp[-x^2], {x, -Infinity, Infinity}]](http://ppp.pony.ovh/?lang=en&q=Integrate%5BExp%5B-x%5E2%5D%2C+%7Bx%2C+-Infinity%2C+Infinity%7D%5D+)
 
 * [Solve[Exp[x]/2+Exp[-x]/2==y,x]](http://ppp.pony.ovh/?lang=en&q=+Solve%5BExp%5Bx%5D%2F2%2BExp%5B-x%5D%2F2%3D%3Dy%2Cx%5D)
+
+#### Weird questions
+
+* [What is the cappyttal of Franse?](http://ppp.pony.ovh/?lang=en&q=What+is+the+cappyttal+of+Franse%3F)
+* [Who are the daughters of the wife of the husband of the wife of the president of the United States?](http://ppp.pony.ovh/?lang=en&q=Who+are+the+daughters+of+the+wife+of+the+husband+of+the+wife+of+the+president+of+the+United+States%3F)
