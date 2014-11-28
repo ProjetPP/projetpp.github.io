@@ -10,7 +10,7 @@ Our project is based on a modular approach. The input question is passed to a co
 
 Our goal is to allow everyone to implement its own module (astronomy module, cooking module...) and connect it to our project. For a more detailed overview, please have a look at the [midterm report](midtermReport.pdf).
 
-Basic informations about the main modules currently available of the project:
+Basic informations about the main modules currently available on the project:
 
 ## Question Parsing
 
