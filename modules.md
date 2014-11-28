@@ -6,6 +6,9 @@ group: navigation
 ---
 {% include JB/setup %}
 
+Our project is based on a modular approach. 
+
+
 Basic informations about the main modules of the project.
 
 For a more detailed overview, please have a look at the [midterm report](midtermReport.pdf).
