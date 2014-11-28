@@ -6,9 +6,11 @@ group: navigation
 ---
 {% include JB/setup %}
 
-Basic informations about the main modules of the project.
+Our project is based on a modular approach. The input question is passed to a core that distributes it between modules. Each module can do whatever he wants to simplify the input or solve it partially. The core decides which modules are the most relevant.
 
-For a more detailed overview, please have a look at the [midterm report](midtermReport.pdf).
+Our goal is to allow everyone to implement its own module (astronomy module, cooking module...) and connect it to our project. For a more detailed overview, please have a look at the [midterm report](midtermReport.pdf).
+
+Basic informations about the main modules currently available:
 
 ## Question Parsing
 
