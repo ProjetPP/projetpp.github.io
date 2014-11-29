@@ -13,7 +13,7 @@ and [Yassine](https://github.com/yhamoudi),
 seven students in first year of the theoretical computer science master, 
 at the [École Normale Supérieure de Lyon](http://www.ens-lyon.fr/DI/).
 
-You can fork the project on [GitHub](https://github.com/ProjetPP/), and ontact us by <a href="mailto:ppp@pony.ovh">email</a>.
+You can fork the project on [GitHub](https://github.com/ProjetPP/), and contact us by <a href="mailto:ppp@pony.ovh">email</a>.
 
 This project takes place in our school program, from September 2014 to December 2014.
 It will of course be kept on going after this date.
