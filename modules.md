@@ -56,9 +56,9 @@ Performs spell-checking on the input sentence.
 
 Uses the *Aspell API*.
 
-#### Wikipedia
+#### [Wikipedia](https://github.com/ProjetPP/PPP-Wikipedia)
 
-Not yet implemented. Will answer general questions such as "Who is Turing?".
+Not yet deployed. Will answer general questions such as "Who is Turing?".
 
 #### [Web User Interface](https://github.com/ProjetPP/PPP-WebUi)
 
