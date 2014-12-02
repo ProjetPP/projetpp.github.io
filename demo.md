@@ -17,7 +17,17 @@ Some useful features that you should know.
 
 ## Examples of questions
 
+#### Keyword questions
+
+* [Sherlock Holmes](http://ppp.pony.ovh/?lang=en&q=Sherlock+Holmes)
+
+* [Guatemala](http://ppp.pony.ovh/?lang=en&q=Guatemala)
+
 #### English questions
+
+* [Who is Bach?](http://ppp.pony.ovh/?lang=en&q=Who+is+Bach%3F)
+
+* [What is "P=NP"?](http://ppp.pony.ovh/?lang=en&q=What+is+%22P%3DNP%22%3F)
 
 * [Who is the author of "Le Petit Prince"?](http://ppp.pony.ovh/?lang=en&q=Who+is+the+author+of+%22Le+Petit+Prince%22%3F)
 
