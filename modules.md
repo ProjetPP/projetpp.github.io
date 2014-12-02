@@ -58,7 +58,7 @@ Uses the *Aspell API*.
 
 #### [Wikipedia](https://github.com/ProjetPP/PPP-Wikipedia)
 
-Not yet deployed. Will answer general questions such as "Who is Turing?".
+Answer general questions such as "Who is Turing?", based on Wikipedia pages.
 
 #### [Web User Interface](https://github.com/ProjetPP/PPP-WebUi)
 
