@@ -6,8 +6,6 @@ group: navigation
 ---
 {% include JB/setup %}
 
-####[Technical documentation](https://github.com/ProjetPP/Documentation)
-
 ## Official documents
 
 ####[Midterm report](documentation/midtermReport.pdf)
@@ -24,7 +22,11 @@ Published on October the 3rd, 2014.
 Presentation of what we intended to do at the beginning of the project.
 
 
-## Internal presentations
+## Internal documents
+
+####[Technical documentation](https://github.com/ProjetPP/Documentation)
+
+Data model and module communication protocole (more explanations in the Midterm report).
 
 ####[Literature review](documentation/pppLiteratureReview_YassineHamoudi.pdf)
 
