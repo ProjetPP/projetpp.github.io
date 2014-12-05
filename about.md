@@ -6,12 +6,16 @@ group: navigation
 ---
 {% include JB/setup %}
 
-We are [Marc](https://github.com/s-i-newton), [Quentin](https://github.com/robocop),
-[Raphaël](https://github.com/rcharron), [Thomas](https://github.com/Tpt),
-[Tom](https://github.com/Ezibenroc), [Valentin](https://github.com/ProgVal)
-and [Yassine](https://github.com/yhamoudi), 
-seven students in first year of the theoretical computer science master, 
-at the [École Normale Supérieure de Lyon](http://www.ens-lyon.fr/DI/).
+We are seven students in first year of the theoretical computer science master, 
+at the [École Normale Supérieure de Lyon](http://www.ens-lyon.fr/DI/):
+
+* [Raphaël Charrondière](https://github.com/rcharron)
+* [Marc Chevalier](https://github.com/s-i-newton)
+* [Quentin Cormier](https://github.com/robocop)
+* [Tom Cornebize](http://perso.ens-lyon.fr/tom.cornebize/)
+* [Yassine Hamoudi](http://perso.ens-lyon.fr/yassine.hamoudi/)
+* [Valentin Lorentz](https://github.com/ProgVal)
+* [Thomas Pellissier Tanon](https://github.com/Tpt)
 
 You can fork the project on [GitHub](https://github.com/ProjetPP/), and contact us by <a href="mailto:ppp@pony.ovh">email</a>.
 
