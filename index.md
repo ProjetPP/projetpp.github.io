@@ -20,9 +20,9 @@ A presentation of the project will be held at the ENS Lyon on __December 18, 201
 *Projet Pensées Profondes* are three french words, which mean literaly *Deep
 Thought Project* in English.
 
-For a more detailed overview of what we plan, read our [proposal](proposal.pdf).
+For a more detailed overview of what we plan, read our [proposal](documentation/proposal.pdf).
 
-First achievements, after about one month and a half, are written in the [midterm report](midtermReport.pdf).
+First achievements, after about one month and a half, are written in the [midterm report](documentation/midtermReport.pdf).
 
 
 [![PPP structure](structurePPP.png "The modular structure of the PPP")](structurePPP.png)
