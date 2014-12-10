@@ -33,7 +33,7 @@ Some useful features that you should know.
 
 * [What is the capital of India?](http://ppp.pony.ovh/?lang=en&q=What+is+the+capital+of+India%3F)
 
-* [Where is the capital of New Zealand?](http://ppp.pony.ovh/?lang=en&q=Where+is+the+capital+of+Russia%3F)
+* [Where is the capital of New Zealand?](http://ppp.pony.ovh/?lang=en&q=Where+is+the+capital+of+New+Zealand%3F)
 
 * [Who is the prime minister of France?](http://ppp.pony.ovh/?lang=en&q=Who+is+the+prime+minister+of+France%3F)
 
