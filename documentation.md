@@ -30,4 +30,4 @@ Data model and module communication protocol (more explanations in the Midterm r
 
 ####[Literature review](documentation/pppLiteratureReview_YassineHamoudi.pdf)
 
-How answering natural language questions using existing structured databases?
+How to answer questions in natural language using existing structured databases?
