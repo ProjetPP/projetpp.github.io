@@ -26,7 +26,7 @@ Presentation of what we intended to do at the beginning of the project.
 
 ####[Technical documentation](https://github.com/ProjetPP/Documentation)
 
-Data model and module communication protocole (more explanations in the Midterm report).
+Data model and module communication protocol (more explanations in the Midterm report).
 
 ####[Literature review](documentation/pppLiteratureReview_YassineHamoudi.pdf)
 
