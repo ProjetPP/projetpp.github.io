@@ -11,7 +11,6 @@ description: "Home page of the PPP"
 <p><a href="demo.html">Learn</a> quickly how to use the PPP.</p>
 </div>
 
-
 A presentation of the project will be held at the ENS Lyon on __December 18, 2014 from 9h30 to 10h00__
 ([more information](http://www.ens-lyon.eu/actualites/dppi-2014-les-demos-publiques-projets-integres-des-m1-en-informatique-248516.kjsp?RH=ENS-LYON-FR-AGENDA)).
 
@@ -19,6 +18,8 @@ A presentation of the project will be held at the ENS Lyon on __December 18, 201
 
 *Projet Pensées Profondes* are three french words, which mean literaly *Deep
 Thought Project* in English.
+
+This project resulted in the creation of a question answering framework, *Platypus*.
 
 First achievements, after about one month and a half, are written in the [midterm report](documentation/midtermReport.pdf).
 
