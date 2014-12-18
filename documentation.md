@@ -8,6 +8,12 @@ group: navigation
 
 ## Official documents
 
+####[Public demonstration](documentation/publicDemo.pdf)
+
+Published on December the 18th, 2014.
+
+Slides of the presentation held at the *ENS Lyon* on December 18th, 2014.
+
 ####[Midterm report](documentation/midtermReport.pdf)
 
 Published on November the 4th, 2014.
