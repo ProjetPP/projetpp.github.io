@@ -14,7 +14,7 @@ description: "Home page of the PPP"
 A presentation has been held at the *ENS Lyon* on December 18, 2014.
 ([more information](http://www.ens-lyon.eu/actualites/dppi-2014-les-demos-publiques-projets-integres-des-m1-en-informatique-248516.kjsp?RH=ENS-LYON-FR-AGENDA)).
 
-Missed it? You can still have a look at the [slides](documentation/publicDemo.pdf).
+Missed it? You can still have a look at the [slides](documentation/publicPresentation.pdf).
 
 ## The project
 

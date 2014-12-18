@@ -8,7 +8,7 @@ group: navigation
 
 ## Official documents
 
-####[Public demonstration](documentation/publicDemo.pdf)
+####[Public presentation](documentation/publicPresentation.pdf)
 
 Published on December the 18th, 2014.
 
