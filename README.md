@@ -32,7 +32,7 @@ Example:
             {% assign group = 'navigation' %}
             {% include JB/pages_list %}
             <li><a href="https://github.com/ProjetPP/">GitHub</a></li>
-            <li><a href="http://ppp.pony.ovh/">Ask a question</a></li>
+            <li><a href="http://askplatyp.us/">Ask a question</a></li>
           </ul>
         </div>
       </div>
