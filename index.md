@@ -16,14 +16,13 @@ A presentation has been held at the *ENS Lyon* on December 18, 2014.
 
 Missed it? You can still have a look at the [slides](documentation/publicPresentation.pdf).
 
+You want more details? Read the [report](documentation/finalReport.pdf).
+
 ## The project
 
 *Projet Pensées Profondes* are three french words, which mean literaly *Deep
 Thought Project* in English.
 
 This project resulted in the creation of a question answering framework, *Platypus*.
-
-First achievements, after about one month and a half, are written in the [midterm report](documentation/midtermReport.pdf).
-
 
 [![PPP structure](structurePPP2.png "The modular structure of the PPP")](structurePPP2.png)

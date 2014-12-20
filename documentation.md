@@ -8,6 +8,12 @@ group: navigation
 
 ## Official documents
 
+####[Final report](documentation/finalReport.pdf)
+
+Published on December the 20th, 2014.
+
+Detailed presentation of the project after three months of work (end of the school semester).
+
 ####[Public presentation](documentation/publicPresentation.pdf)
 
 Published on December the 18th, 2014.
@@ -18,8 +24,7 @@ Slides of the presentation held at the *ENS Lyon* on December 18th, 2014.
 
 Published on November the 4th, 2014.
 
-Presentation of our achievements after one month and a half of work, at the half
-of the school semester.
+Presentation of our achievements after one month and a half of work (half of the school semester).
 
 ####[Project proposal](documentation/proposal.pdf)
 
