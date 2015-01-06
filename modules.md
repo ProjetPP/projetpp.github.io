@@ -42,7 +42,7 @@ Produces triples from scratch, without any grammatical library.
 
 Answers general knowledge question, using the data stored in [Wikidata](http://www.wikidata.org/) and [Wikipedia](http://www.wikipedia.org/).
 
-Uses the *Wikidata API* and the *WikidataQuery API*.
+Uses the *Wikidata API*, the *WikidataQuery API* and the *Wikipedia API*.
 
 #### [Computer Algebra System](https://github.com/ProjetPP/PPP-CAS)
 
@@ -55,6 +55,12 @@ Uses *Simpy* and *Ply*.
 Performs spell-checking on the input sentence. 
 
 Uses the *Aspell API*.
+
+#### [Integer sequences](https://github.com/ProjetPP/PPP-OEIS)
+
+Answer to queries related to integer sequences.
+
+Uses the *OEIS API*.
 
 #### [Web User Interface](https://github.com/ProjetPP/PPP-WebUi)
 
