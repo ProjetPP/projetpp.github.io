@@ -40,7 +40,7 @@ Produces triples from scratch, without any grammatical library.
 
 #### [Wikidata](https://github.com/ProjetPP/PPP-Wikidata)
 
-Answers general knowledge question, using the data stored in [Wikidata](http://www.wikidata.org/).
+Answers general knowledge question, using the data stored in [Wikidata](http://www.wikidata.org/) and [Wikipedia](http://www.wikipedia.org/).
 
 Uses the *Wikidata API* and the *WikidataQuery API*.
 
@@ -55,10 +55,6 @@ Uses *Simpy* and *Ply*.
 Performs spell-checking on the input sentence. 
 
 Uses the *Aspell API*.
-
-#### [Wikipedia](https://github.com/ProjetPP/PPP-Wikipedia)
-
-Answer general questions such as "Who is Turing?", based on Wikipedia pages.
 
 #### [Web User Interface](https://github.com/ProjetPP/PPP-WebUi)
 
