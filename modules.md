@@ -58,8 +58,8 @@ Uses the *Aspell API*.
 
 #### [Integer sequences](https://github.com/ProjetPP/PPP-OEIS)
 
-Answer to queries related to integer sequences: identify one and find integers
-following a given sequence.
+Answer to queries related to integer sequences: identify them and give the
+following integers.
 
 Uses the *OEIS API*.
 
