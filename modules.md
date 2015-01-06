@@ -46,13 +46,13 @@ Uses the *Wikidata API*, the *WikidataQuery API* and the *Wikipedia API*.
 
 #### [Computer Algebra System](https://github.com/ProjetPP/PPP-CAS)
 
-Answers mathematical queries. 
+Answers mathematical queries.
 
 Uses *Simpy* and *Ply*.
 
 #### [Spell Checker](https://github.com/ProjetPP/PPP-Spell-Checker)
 
-Performs spell-checking on the input sentence. 
+Performs spell-checking on the input sentence.
 
 Uses the *Aspell API*.
 
