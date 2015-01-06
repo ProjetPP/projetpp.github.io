@@ -40,25 +40,28 @@ Produces triples from scratch, without any grammatical library.
 
 #### [Wikidata](https://github.com/ProjetPP/PPP-Wikidata)
 
-Answers general knowledge question, using the data stored in [Wikidata](http://www.wikidata.org/).
+Answers general knowledge question, using the data stored in [Wikidata](http://www.wikidata.org/) and [Wikipedia](http://www.wikipedia.org/).
 
-Uses the *Wikidata API* and the *WikidataQuery API*.
+Uses the *Wikidata API*, the *WikidataQuery API* and the *Wikipedia API*.
 
 #### [Computer Algebra System](https://github.com/ProjetPP/PPP-CAS)
 
-Answers mathematical queries. 
+Answers mathematical queries.
 
 Uses *Simpy* and *Ply*.
 
 #### [Spell Checker](https://github.com/ProjetPP/PPP-Spell-Checker)
 
-Performs spell-checking on the input sentence. 
+Performs spell-checking on the input sentence.
 
 Uses the *Aspell API*.
 
-#### [Wikipedia](https://github.com/ProjetPP/PPP-Wikipedia)
+#### [Integer sequences](https://github.com/ProjetPP/PPP-OEIS)
 
-Answer general questions such as "Who is Turing?", based on Wikipedia pages.
+Answer to queries related to integer sequences: identify them and give the
+following integers.
+
+Uses the *OEIS API*.
 
 #### [Web User Interface](https://github.com/ProjetPP/PPP-WebUi)
 
