@@ -7,7 +7,7 @@ group: navigation
 {% include JB/setup %}
 
 We are seven students in first year of the theoretical computer science master, 
-at the [École Normale Supérieure de Lyon](http://www.ens-lyon.fr/DI/):
+at the [École Normale Supérieure de Lyon](http://www.ens-lyon.fr/DI/?lang=en):
 
 * [Raphaël Charrondière](https://github.com/rcharron)
 * [Marc Chevalier](https://github.com/s-i-newton)
