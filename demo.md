@@ -1,7 +1,7 @@
 ---
 layout: page
-title: "Demo"
-description: "How to use the PPP?"
+title: "Our demo, Platypus"
+description: "How to use Platypus?"
 group: navigation
 ---
 {% include JB/setup %}
