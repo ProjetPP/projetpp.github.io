@@ -17,7 +17,7 @@ description: "Home page of the PPP"
 Thought Project* in English. The aim of this project is to build an open source
 question answering framework.
 
-This project resulted in the creation of a generalist question answering framework, *Platypus*.
+This project resulted in the creation of a generalist question answering tool, *[Platypus](http://askplatyp.us)*.
 
 You want more technical details? Read the [report](documentation/finalReport.pdf) (some parts may be obsoletes).
 
