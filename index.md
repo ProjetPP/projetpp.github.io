@@ -19,9 +19,7 @@ question answering framework.
 
 This project resulted in the creation of a generalist question answering tool, *[Platypus](http://askplatyp.us)*.
 
-You want more technical details? Read the [report](documentation/finalReport.pdf) (some parts may be obsoletes).
-
-[![PPP structure](structurePPP2.png "The modular structure of the PPP")](structurePPP2.png)
+You want more technical details? Read the [technical overview](modules.html).
 
 ## News
 
