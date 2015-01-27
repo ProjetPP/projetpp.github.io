@@ -8,7 +8,7 @@ group: navigation
 
 The *Projet Pensée Profonde* is an open source project which aim is to create an open source question answering framework and a demo of it, [Platypus](http://askplatyp.us). Patches and new features are very welcome.
 
-You can fork the project on [GitHub](https://github.com/ProjetPP/), follow us on [Twitter](https://twitter.com/ProjetPP) and contact us by <a href="mailto:askplatyp.us">email</a>.
+You can fork the project on [GitHub](https://github.com/ProjetPP/), follow us on [Twitter](https://twitter.com/ProjetPP) and contact us by <a href="mailto:contact@askplatyp.us">email</a>.
 
 
 
