@@ -11,10 +11,7 @@ The *Projet Pensée Profonde* is an open source project which aim is to create a
 You can fork the project on [GitHub](https://github.com/ProjetPP/), follow us on [Twitter](https://twitter.com/ProjetPP) and contact us by <a href="mailto:contact@askplatyp.us">email</a>.
 
 
-
-This project has begun as a student project at the [École Normale Supérieure de Lyon](http://www.ens-lyon.fr/DI/?lang=en).
-
-This project was done by seven student of the a first year of the theoretical computer science master:
+This project has begun at the [École Normale Supérieure de Lyon](http://www.ens-lyon.fr/DI/?lang=en). It is run by seven students in theoretical computer science:
 
 * [Raphaël Charrondière](https://github.com/rcharron)
 * [Marc Chevalier](https://github.com/s-i-newton)
