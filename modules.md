@@ -26,7 +26,7 @@ in the [Documentation repository](//github.com/ProjetPP/Documentation).
 
 ## Current modules
 
-Basic informations about the main modules currently available:
+Basic information about the main modules currently available:
 
 ### [Core](//github.com/ProjetPP/PPP-core)
 

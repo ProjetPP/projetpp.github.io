@@ -13,7 +13,7 @@ description: "Home page of the PPP"
 
 ## The project
 
-*Projet Pensées Profondes* are three french words, which mean literaly *Deep
+*Projet Pensées Profondes* are three french words, which mean literally *Deep
 Thought Project* in English. The aim of this project is to build an open source
 question answering framework.
 
