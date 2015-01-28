@@ -2,14 +2,14 @@
 
 The wepbage of the PPP is made using [Jekyll](http://jekyllrb.com/).
 
-You can find more informations about the specific utilization of Jekyll with GitHub [here](https://help.github.com/articles/using-jekyll-with-pages).
+You can find more information about the specific utilization of Jekyll with GitHub [here](https://help.github.com/articles/using-jekyll-with-pages).
 
 To do thing more easily, [JekyllBootstrap](http://jekyllbootstrap.com/) is used.
 
 ## Using Jekyll locally
 
 The following are some notes to myself to get Jekyll to work on my PC.
-These are additional informations to the official Jekyll and GitHub help.
+These are additional information to the official Jekyll and GitHub help.
 
 1. Have `ruby`, `ruby-dev` and `nodejs` packages installed.
 2. When some installation does not work, try with sudo.
