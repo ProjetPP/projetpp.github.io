@@ -12,9 +12,7 @@ You can fork the project on [GitHub](https://github.com/ProjetPP/), follow us on
 
 
 
-This project has begun as a student project at the [École Normale Supérieure de Lyon](http://www.ens-lyon.fr/DI/?lang=en).
-
-This project was done by seven student of the a first year of the theoretical computer science master:
+This project has begun as a student project at the [École Normale Supérieure de Lyon](http://www.ens-lyon.fr/DI/?lang=en). It is run by seven students of the a first year of the theoretical computer science master:
 
 * [Raphaël Charrondière](https://github.com/rcharron)
 * [Marc Chevalier](https://github.com/s-i-newton)
