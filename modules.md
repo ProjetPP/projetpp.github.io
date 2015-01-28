@@ -7,7 +7,7 @@ group: navigation
 {% include JB/setup %}
 
 
-The PPP framework, and so the Platypus demo, is based on a modular approach. The input
+The PPP framework is based on a modular approach. The input
 is passed from the user interface to a core that distributes it between modules. Each module
 can do whatever it wants to simplify the input or solve it partially. This operation is
 repeated as long as there are improvements in the results. Then, the core returns these
