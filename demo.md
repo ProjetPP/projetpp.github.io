@@ -63,8 +63,6 @@ Some useful features that you should know.
 
 * [Solve[Exp[x]/2+Exp[-x]/2==y,x]](http://askplatyp.us/?lang=en&q=+Solve%5BExp%5Bx%5D%2F2%2BExp%5B-x%5D%2F2%3D%3Dy%2Cx%5D)
 
-* [\sum_{i=0}^n i^2](http://askplatyp.us/?lang=en&q=\sum_{i%3D0}^n+i^2)
-
 * [What follows 2, 3, 5, 7, 11, 13, 17, 19, 23, 29, 31](http://askplatyp.us/?lang=en&q=What+follows+2%2C+3%2C+5%2C+7%2C+11%2C+13%2C+17%2C+19%2C+23%2C+29%2C+31)
 
 #### Weird questions
