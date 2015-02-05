@@ -25,7 +25,7 @@ Some useful features that you should know.
 
 #### English questions
 
-* [Who is Bach?](http://askplatyp.us/?lang=en&q=Who+is+Bach%3F)
+* [Who is Jean-François Champollion?](http://askplatyp.us/?lang=en&q=Who+is+Jean-Fran%C3%A7ois+Champollion%3F)
 
 * [What is "P=NP"?](http://askplatyp.us/?lang=en&q=What+is+%22P%3DNP%22%3F)
 
@@ -41,9 +41,13 @@ Some useful features that you should know.
 
 * [Who are the Beatles\' members?](http://askplatyp.us/?lang=en&q=Who+are+the+Beatles%27+members%3F)
 
+* [When is Barack Obama born?](http://askplatyp.us/?lang=en&q=When+is+Barack+Obama+born%3F)
+
 #### Math questions
 
 * [sqrt(180)](http://askplatyp.us/?lang=en&q=sqrt(180))
+
+* [integral of sin(x)](http://askplatyp.us/?lang=en&q=integral+of+sin%28x%29)
 
 * [N[Pi, 42]](http://askplatyp.us/?lang=en&q=N%5BPi%2C+42%5D)
 
@@ -53,13 +57,18 @@ Some useful features that you should know.
 
 * [Sum[x^n/n!, {n,0,Infinity}]](http://askplatyp.us/?lang=en&q=Sum%5Bx%5En%2Fn!%2C+%7Bn%2C0%2CInfinity%7D%5D+)
 
-* [Sum[1/n^42, {n,1,Infinity}]](http://askplatyp.us/?lang=en&q=Sum%5B1%2Fn%5E42%2C+%7Bn%2C1%2CInfinity%7D%5D+)
+* [sum(1/n**42, n, 1, infinity)](http://askplatyp.us/?lang=en&q=Sum%5B1%2Fn%5E42%2C+%7Bn%2C1%2CInfinity%7D%5D+)
 
 * [Integrate[Exp[-x^2], {x, -Infinity, Infinity}]](http://askplatyp.us/?lang=en&q=Integrate%5BExp%5B-x%5E2%5D%2C+%7Bx%2C+-Infinity%2C+Infinity%7D%5D+)
 
 * [Solve[Exp[x]/2+Exp[-x]/2==y,x]](http://askplatyp.us/?lang=en&q=+Solve%5BExp%5Bx%5D%2F2%2BExp%5B-x%5D%2F2%3D%3Dy%2Cx%5D)
 
+* [\sum_{i=0}^n i^2](http://askplatyp.us/?lang=en&q=\sum_{i%3D0}^n+i^2)
+
+* [What follows 2, 3, 5, 7, 11, 13, 17, 19, 23, 29, 31](http://askplatyp.us/?lang=en&q=What+follows+2%2C+3%2C+5%2C+7%2C+11%2C+13%2C+17%2C+19%2C+23%2C+29%2C+31)
+
 #### Weird questions
 
 * [What is the cappyttal of Franse?](http://askplatyp.us/?lang=en&q=What+is+the+cappyttal+of+Franse%3F)
+
 * [Who are the daughters of the wife of the husband of the wife of the president of the United States?](http://askplatyp.us/?lang=en&q=Who+are+the+daughters+of+the+wife+of+the+husband+of+the+wife+of+the+president+of+the+United+States%3F)
