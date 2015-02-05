@@ -41,7 +41,7 @@ Some useful features that you should know.
 
 * [Who are the Beatles\' members?](http://askplatyp.us/?lang=en&q=Who+are+the+Beatles%27+members%3F)
 
-* [When is Barack Obama born?](http://askplatyp.us/?lang=en&q=When+is+Barack+Obama+born%3F)
+* [When was Barack Obama born?](http://askplatyp.us/?lang=en&q=When+was+Barack+Obama+born%3F)
 
 #### Math questions
 
