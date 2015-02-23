@@ -70,3 +70,20 @@ Some useful features that you should know.
 * [What is the cappyttal of Franse?](http://askplatyp.us/?lang=en&q=What+is+the+cappyttal+of+Franse%3F)
 
 * [Who are the daughters of the wife of the husband of the wife of the president of the United States?](http://askplatyp.us/?lang=en&q=Who+are+the+daughters+of+the+wife+of+the+husband+of+the+wife+of+the+president+of+the+United+States%3F)
+
+
+## Power user input
+
+You can also input your questions using our power user's query syntax. It may be used as a query tool for Wikidata.
+
+### Examples
+
+* [`(Barack Obama, birth date, ?)`](http://askplatyp.us/?lang=en&q=%28Barack+Obama%2C+birth+date%2C+%3F%29) Returns the birth date of the entities that have as label *Barack Obama*.
+
+* [`(?, author, Douglas Adams)`](http://askplatyp.us/?lang=en&q=%28%3F%2C+author%2C+Douglas+Adams%29) Returns all the entities that have as author an entity with the label *Douglas Adams*.
+
+* [`(?, profession, poet) ∩ (?, profession, computer scientist) ∩ (?, sex, female`)](http://askplatyp.us/?lang=en&q=%28%3F%2C+profession%2C+poet%29+%E2%88%A9+%28%3F%2C+profession%2C+computer+scientist%29+%E2%88%A9+%28%3F%2C+sex%2C+female%29) Does a clever intersection between the sets of enties returns by the three seb-queries to find Ada Lovelace.
+
+* [`(Barack Obama, birth date, ?) ∪ (Bill Clinton, birth date, ?)`](http://askplatyp.us/?lang=en&q=%28Barack+Obama%2C+birth+date%2C+%3F%29+%E2%88%AA+%28Bill+Clinton%2C+birth+date%2C+%3F%29) A not so intresting union.
+
+* [`((United States, president, ?), children, ?)`](http://askplatyp.us/?lang=en&q=%28%28United+States%2C+president%2C+%3F%29%2C+children%2C+%3F%29) Returns the children of the president of the United States using a nested query.
