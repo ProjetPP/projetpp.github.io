@@ -23,8 +23,9 @@ You want more technical details? Read the [technical overview](modules.html).
 
 ## News
 
+We published an article on the Wikimedia blog: [Platypus, a speaking interface for Wikidata](https://blog.wikimedia.de/2015/02/23/platypus-a-speaking-interface-for-wikidata/).
+
 A presentation has been held at the *ENS Lyon* on December 18, 2014.
 ([more information](http://www.ens-lyon.eu/actualites/dppi-2014-les-demos-publiques-projets-integres-des-m1-en-informatique-248516.kjsp?RH=ENS-LYON-FR-AGENDA)).
 
 Missed it? You can still have a look at the [slides](documentation/publicPresentation.pdf).
-
