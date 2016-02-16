@@ -180,7 +180,7 @@ namespace :theme do
       => ERROR: 'name' cannot be blank") if name.empty?
     abort("rake aborted! 
       => ERROR: '#{packaged_theme_path}' directory not found.
-      => Installable themes can be added via git. You can find some here: http://github.com/jekyllbootstrap
+      => Installable themes can be added via git. You can find some here: https://github.com/jekyllbootstrap
       => To download+install run: `rake theme:install git='[PUBLIC-CLONE-URL]'`
       => example : rake theme:install git='git@github.com:jekyllbootstrap/theme-the-program.git'
     ") unless FileTest.directory?(packaged_theme_path)

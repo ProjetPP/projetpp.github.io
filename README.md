@@ -1,6 +1,6 @@
 # Webpage of the PPP
 
-The wepbage of the PPP is made using [Jekyll](http://jekyllrb.com/).
+The wepbage of the PPP is made using [Jekyll](https://jekyllrb.com/).
 
 You can find more information about the specific utilization of Jekyll with GitHub [here](https://help.github.com/articles/using-jekyll-with-pages).
 
@@ -32,7 +32,7 @@ Example:
             {% assign group = 'navigation' %}
             {% include JB/pages_list %}
             <li><a href="https://github.com/ProjetPP/">GitHub</a></li>
-            <li><a href="http://askplatyp.us/">Ask a question</a></li>
+            <li><a href="https://askplatyp.us/">Ask a question</a></li>
           </ul>
         </div>
       </div>
