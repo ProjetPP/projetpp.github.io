@@ -6,10 +6,10 @@ group: navigation
 ---
 {% include JB/setup %}
 
-The *Projet Pensée Profonde* is an open source project which aim is to create an open source question answering framework and a demo of it, [Platypus](http://askplatyp.us). Patches and new features are very welcome.
+The *Projet Pensée Profonde* is an open source project which aim is to create an open source question answering framework and a demo of it, [Platypus](https://askplatyp.us). Patches and new features are very welcome.
 
 You can fork the project on [GitHub](https://github.com/ProjetPP/), follow us on [Twitter](https://twitter.com/ProjetPP) and contact us by <a href="mailto:contact@askplatyp.us">email</a>.
-You can also talk with us on <a href="irc://irc.freenode.net/projetpp">IRC</a> or on [our forum](http://discourse.askplatyp.us).
+You can also talk with us on <a href="irc://irc.freenode.net/projetpp">IRC</a> or on [our forum](https://discourse.askplatyp.us).
 
 
 

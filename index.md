@@ -7,7 +7,7 @@ description: "Home page of the PPP"
 
 <div class="hero-unit" style="text-align:center;">
 <p>A modular and open source question answering framework.</p>
-<p><a class="btn btn-large" style="font-size: 25px;" href="http://askplatyp.us/">Try Platypus <img src="platypus_red.png" alt="Platypus logo" title="Platypus"></a></p>
+<p><a class="btn btn-large" style="font-size: 25px;" href="https://askplatyp.us/">Try Platypus <img src="platypus_red.png" alt="Platypus logo" title="Platypus"></a></p>
 <p><a href="demo.html">Learn</a> quickly how to use it.</p>
 </div>
 
@@ -17,7 +17,7 @@ description: "Home page of the PPP"
 Thought Project* in English. The aim of this project is to build an open source
 question answering framework.
 
-This project resulted in the creation of a generalist question answering tool, *[Platypus](http://askplatyp.us)*.
+This project resulted in the creation of a generalist question answering tool, *[Platypus](https://askplatyp.us)*.
 
 You want more technical details? Read the [technical overview](modules.html).
 

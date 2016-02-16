@@ -66,7 +66,7 @@ Produces triples from scratch, without any grammatical library.
 
 #### [Wikidata](https://github.com/ProjetPP/PPP-Wikidata)
 
-Answers general knowledge question, using the data stored in [Wikidata](http://www.wikidata.org/) and [Wikipedia](http://www.wikipedia.org/).
+Answers general knowledge question, using the data stored in [Wikidata](https://www.wikidata.org/) and [Wikipedia](https://www.wikipedia.org/).
 
 Uses the *Wikidata API*, the *WikidataQuery API* and the *Wikipedia API*.
 
